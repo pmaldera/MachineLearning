@@ -7,9 +7,10 @@ Some machine learning algorithms in javascript, commented.
 
 Currently :
 - Multi-class Perceptron
+- ADALINE (for logical AND)
 
 Upcoming :
-- ADALINE
+- MADALINE (maybe)
 
 ## Quick start
 
